@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge)
 
 # W-Bomber
-A self-controlled whatsapp bomber made as a chrome extension.
+A self-controlled whatsapp bomber made as a chrome extension. Comes with a nice little stats after a successful bombing.
 - - -
 
 ## Disclaimer ⚠️
