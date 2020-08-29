@@ -1,0 +1,26 @@
+{
+    "manifest_version": 2,
+    "name": "W-BOMBER",
+    "description": "A simple self-controlled whatsapp bomber.",
+    "version": "0.01",
+    "author": "0x4e",
+
+
+    "icons": {
+        "16": "icons/ico_16.png",
+        "48": "icons/ico_48.png",
+        "128": "icons/ico_128.png"
+    },
+
+    "content_scripts": [{
+        "matches": ["https://web.whatsapp.com/*"],
+        "js": ["start.js"]
+    }],
+    "permissions": [
+        "storage", "tabs", "https://web.whatsapp.com/*"
+    ],
+
+    "browser_action": {
+        "default_popup": "popup.html"
+    }
+}

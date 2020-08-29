@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>W-BOMBER HOME</title>
+    <style type="text/css">
+         :root {
+            --color-primary: #ffffff;
+            --color-secondary: #0c0c0f;
+            --color-text-primary: #837676;
+            --color-text-secondary: #1a1a1a;
+            --color-button-primary: #1a1a1a;
+            --color-button-primary-hover: #0c0c0f;
+        }
+        
+        * {
+            box-sizing: border-box;
+        }
+        
+        body {
+            background: var(--color-primary);
+            color: var(--color-text-primary);
+            direction: ltr;
+            font-family: Helvetica, Arial, sans-serif;
+            font-size: .9rem;
+            line-height: 1.5rem;
+            margin: 0;
+            min-width: 20rem;
+            overflow-x: hidden;
+            padding-bottom: 3rem;
+        }
+        
+        a {
+            cursor: pointer;
+            color: var(--color-text-primary);
+            outline: none;
+            text-decoration: none;
+        }
+        
+        a:focus {
+            outline: none;
+        }
+        
+        a:hover {
+            text-decoration: underline;
+        }
+        
+        ._2zaa {
+            align-items: center;
+            background: var(--color-secondary);
+            display: flex;
+            height: 4.5rem;
+        }
+        
+        ._4zaa {
+            height: 2.5rem;
+            margin: .5rem 1.5rem 0 1.5rem;
+        }
+        
+        ._5zaa {
+            padding: 1.5rem 1.5rem .5rem 1.5rem;
+        }
+        
+        ._6zaa {
+            max-width: 100%!important;
+            margin-bottom: 2em;
+        }
+        
+        label,
+        ._7zaa {
+            color: var(--color-text-secondary);
+            font-weight: bold;
+            text-decoration: none;
+        }
+        
+        input,
+        button,
+        textarea {
+            outline: none;
+            border: none;
+        }
+        
+        ._8zaa {
+            background: transparent;
+            border: 1px solid var(--color-secondary);
+            color: var(--color-text-primary);
+            font-family: Roboto, Arial, Helvetica, sans-serif;
+            font-size: 18px;
+            letter-spacing: .02em;
+            line-height: 160%;
+            width: 100%;
+            padding: 1rem 0.75rem;
+            border-radius: .25rem;
+        }
+        
+        ._9zaa {
+            width: 100%!important;
+            padding: 11px 32px 12px;
+            font-size: .875rem;
+            letter-spacing: .04em;
+            text-transform: uppercase;
+            font-weight: 700;
+            display: inline-block;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+        
+        ._9yaa {
+            cursor: pointer!important;
+            background: var(--color-button-primary);
+            color: var(--color-primary);
+            text-transform: uppercase;
+            font-weight: 800;
+            transition: all 0.25s ease-in;
+        }
+        
+        ._9yaa:hover {
+            background: var(--color-button-primary-hover);
+        }
+        
+        ._0zaa {
+            text-align: center;
+            height: 3rem;
+            padding: 0 1.5rem;
+            position: fixed;
+            width: 100%;
+        }
+        
+        ._7yaa {
+            color: #545454;
+            font-weight: 700;
+            font-size: .66rem;
+        }
+        
+        ._9xaa {
+            color: #f04747;
+            margin: 5px 0;
+            font-size: 12px;
+            font-weight: 700;
+        }
+    </style>
+</head>
+
+<body class="_1zaa _1ybb">
+    <div class="_2zaa">
+        <a href="#" class="_3zaa">
+            <img alt class="_4zaa" src="./icons/logo_wbz.png">
+        </a>
+    </div>
+    <div class="_5zaa">
+        <div class="_6zaa">
+            <p class="_7zaa" bomber[COUNT]>Message Count</p>
+            <input type="text" class="_8zaa _8yaa" required name="message_count" id="_MC" required>
+        </div>
+        <div class="_6zaa">
+            <p class="_7zaa" bomber[MESSAGE]>Your Message</p>
+            <input type="text" class="_8zaa _8yaa" required name="message_content" id="_MCT" required>
+        </div>
+        <p id="_NANE" class="_9xaa" bomber[ERROR]></p>
+        <div class="_6zaa">
+            <button id="_PSB" class="_9zaa _9yaa">LAUNCH IT!</button>
+        </div>
+    </div>
+    <div class="_0zaa">
+        <a href="https://github.com/4e0x/w-bomber" class="_7yaa">Contribute to W-Bomber.</a>
+    </div>
+    <script type="text/javascript" charset="utf-8" src="./popup.js"></script>
+</body>
+
+</html>
