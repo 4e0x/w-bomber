@@ -1,9 +1,9 @@
 ![](https://img.shields.io/badge/TYPE-CHROME--EXTENSION-yellow?style=for-the-badge&logo=google%20chrome)
 ![](http://img.shields.io/badge/VERSION-0.01-green?style=for-the-badge)
 
-# w-bomber
+# W-Bomber
 A self-controlled whatsapp bomber made as a chrome extension.
----
+- - -
 
 ## Disclaimer ⚠️
 I do not take responsibility for any damage caused by W-Bomber. This was built for educational purpose and should adhere to the specific. Sending annoying messages is not really encouraged.
