@@ -28,7 +28,7 @@ This code is in no way affiliated with, authorized, maintained, sponsored or end
 ### Screenshots
 ![1](https://user-images.githubusercontent.com/53340269/91641490-5f8c6900-ea42-11ea-8633-5240946507b9.png)
 ![2](https://user-images.githubusercontent.com/53340269/91641494-66b37700-ea42-11ea-87a5-f311857e5b0d.png)
-![3](https://user-images.githubusercontent.com/53340269/91641498-6c10c180-ea42-11ea-98b7-a3d99901cb1d.png)
+![3](https://user-images.githubusercontent.com/53340269/91654222-ae7ae280-eac4-11ea-9b6b-c3beb068b424.png)
 
 ### Development ✔️
 Contributions are welcome, feel free to make changes and create a pull-request [here](https://github.com/4e0x/W-Bomber/pulls).
