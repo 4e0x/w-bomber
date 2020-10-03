@@ -37,7 +37,7 @@ Contributions are welcome, feel free to make changes and create a pull-request [
 If you are facing any issues please do visit [issues](https://github.com/4e0x/W-Bomber/issues)
 
 ### Socials ✉️
-[Im right here](mailto:mailto:4e0x@pm.me)
+[Im right here](mailto:lekidnextdoor@pm.me)
 
 > W-Bomber NEEDS YOUR SUPPORT DO CONTRIBUTE
 
