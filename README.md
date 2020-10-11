@@ -41,7 +41,7 @@ If you are facing any issues please do visit [issues](https://github.com/4e0x/W-
 
 > W-Bomber NEEDS YOUR SUPPORT DO CONTRIBUTE
 
-##### W-Bomber v0.01 Release Date(2020-08-29) by 4e0x/4x0e
+##### W-Bomber v0.01 Release Date(2020-09-29) by 4e0x/4x0e
 
 [![HitCount](http://hits.dwyl.com/4e0x/w-bomber.svg)](http://hits.dwyl.com/4e0x/W-Bomber)
 ![](https://githubbadges.com/star.svg?user=4e0x&repo=w-bomber&background=46a223&color=fff&style=flat)
